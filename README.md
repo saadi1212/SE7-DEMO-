@@ -1,2 +1,2 @@
-# SE7-DEMO-
+# SE7-DEMO
 sp23-bse-048
